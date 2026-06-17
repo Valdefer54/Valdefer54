@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Valdefer54">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Data+Engineer;Passionate+about+data+and+AI;Python+%E2%80%A2+SQL+%E2%80%A2+DuckDB+%E2%80%A2+Power+BI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=520&lines=Junior+Data+Analyst+in+the+making;Learning+data+%26+AI+one+project+at+a+time;Python+%E2%80%A2+SQL+%E2%80%A2+DuckDB+%E2%80%A2+Power+BI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,26 +15,26 @@
 ## 🧠 About Me
 
 ```python
-class DataAnalyst:
+class JuniorDataAnalyst:
     def __init__(self):
         self.name = "Valdefer54"
-        self.role = "Data / AI"
-        self.languages = ["Python", "SQL"]
-        self.tools = ["DuckDB", "Power BI", "Excel", "Pandas", "Git"]
-        self.learning = "Machine Learning & Data Engineering"
+        self.role = "Aspiring Data / AI"
+        self.learning = ["Python", "SQL", "DuckDB", "Power BI"]
+        self.tools = ["Excel", "Pandas", "Git"]
+        self.goal = "Grow into a solid Data Analyst / Engineer"
 
     def say_hi(self):
-        return "Let's build something with data! 🚀"
+        return "Still learning, always curious! 🌱"
 ```
 
-- 🔭 Currently working on **data analysis & data processing** projects
-- 🌱 Always learning about **AI, ML and Data Engineering**
-- 💬 Ask me about **Python, SQL, DuckDB, Power BI, Excel and Git**
-- ⚡ Fun fact: I love turning raw data into decisions
+- 🌱 Currently **learning and building** my skills in data analysis
+- 📚 Exploring **Python, SQL, DuckDB and Power BI** through hands-on projects
+- 🤝 Open to feedback, collaboration and new opportunities
+- ⚡ Fun fact: I love turning raw data into something useful
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools I'm Working With
 
 ### Languages & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,19 +69,15 @@ class DataAnalyst:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdefer54&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Valdefer54&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</p>
-
 ---
 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fernandovalde310@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-username">
+  <a href="https://www.linkedin.com/in/juan-fernando-zapata-valderrama-2a1550269">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Valdefer54">
