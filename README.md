@@ -30,7 +30,7 @@ class JuniorDataAnalyst:
 - 🌱 Currently **learning and building** my skills in data analysis
 - 📚 Exploring **Python, SQL, DuckDB, Power BI and AWS** through hands-on projects
 - 🤝 Open to feedback, collaboration and new opportunities. Contact me if your looking teamates to make meaningful projects
-- ⚡ Fun fact: I love turning raw data into something useful
+
 
 ---
 
